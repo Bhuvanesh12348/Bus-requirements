@@ -1,0 +1,10 @@
+Bus Reservation Requirments:
+Bus number
+Seat number
+Bus Destionation
+Bus pick up point
+No of seats available
+Ticket number
+Ticket Cancelation
+Ticket amount
+Bus departure time 
